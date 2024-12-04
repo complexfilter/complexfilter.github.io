@@ -16,6 +16,7 @@ redirect_from:
 
 
 # Recent News
+* Oct 28, 2024. One paper accepted by WACV 2025. 
 * Mar 12, 2024. One paper accepted by ICME 2024. 
 * Feb 26, 2024. One paper accepted by CVPR 2024. 
 * July 31, 2021. One journal paper submitted to IEEE Transactions on Image Processing. 
